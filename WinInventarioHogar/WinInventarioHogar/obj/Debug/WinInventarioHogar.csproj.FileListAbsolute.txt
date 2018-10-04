@@ -166,3 +166,6 @@ C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInven
 C:\Users\antho\Desktop\hogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
 C:\Users\antho\Desktop\hogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
 C:\Users\antho\Desktop\hogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
+C:\Users\antho\Source\Repos\Prueba2\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+C:\Users\antho\Source\Repos\Prueba2\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+C:\Users\antho\Source\Repos\Prueba2\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
