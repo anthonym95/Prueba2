@@ -1,0 +1,43 @@
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.csprojResolveAssemblyReference.cache
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll.config
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll.config
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.xml
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll.config
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.csprojResolveAssemblyReference.cache
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll.config
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\Google.Protobuf.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\bin\Debug\MySql.Data.xml
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Datos\obj\Debug\WinInventarioHogar.Datos.pdb

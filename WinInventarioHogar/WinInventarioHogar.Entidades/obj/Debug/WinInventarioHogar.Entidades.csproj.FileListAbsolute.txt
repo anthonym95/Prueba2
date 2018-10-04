@@ -1,0 +1,20 @@
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar.Entidades\obj\Debug\WinInventarioHogar.Entidades.pdb

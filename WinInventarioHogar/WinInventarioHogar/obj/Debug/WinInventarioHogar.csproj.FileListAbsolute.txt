@@ -1,0 +1,168 @@
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.pdb
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csprojResolveAssemblyReference.cache
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Properties.Resources.resources
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csproj.GenerateResource.Cache
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
+c:\users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmPrincipal.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmInicioSesion.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmUsuarios.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmInicio.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmCategoriasRoles.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\Google.Protobuf.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.xml
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmReportes.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmProductos.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmAgregarProductos.resources
+C:\Users\emers\documents\visual studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmEntradaProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\Google.Protobuf.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.xml
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmCategoriasRoles.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmUsuarios.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmInicioSesion.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmPrincipal.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Properties.Resources.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmInicio.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmAgregarProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmEntradaProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmReportes.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csproj.GenerateResource.Cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmSalidaProductos.resources
+C:\Users\emers\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+C:\Users\emers\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+C:\Users\emers\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Google.Protobuf.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csprojResolveAssemblyReference.cache
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmCategoriasRoles.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmUsuarios.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmInicioSesion.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmPrincipal.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Properties.Resources.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmInicio.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmAgregarProductos.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmEntradaProductos.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmProductos.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmReportes.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmSalidaProductos.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csproj.GenerateResource.Cache
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.MySql.dll
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.MySql.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\RdlCompile.cache
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\RdlCompile.compiled
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmOpciones.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Google.Protobuf.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Entidades.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Logica.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.xml
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.MySql.xml
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.Datos.pdb
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\MySql.Data.xml
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csprojResolveAssemblyReference.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmCategoriasRoles.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Administrador.frmUsuarios.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmInicioSesion.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.frmPrincipal.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Properties.Resources.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmInicio.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmOpciones.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmAgregarProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmEntradaProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmReportes.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmSalidaProductos.resources
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.csproj.GenerateResource.Cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\RdlCompile.cache
+C:\Users\lanbo\Desktop\WinInventarioHogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\RdlCompile.compiled
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\bin\Debug\Devart.Data.MySql.xml
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.frmOpciones.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.Usuarios.Productos.frmSalidaProductos.resources
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\RdlCompile.cache
+C:\Users\emers\Documents\Visual Studio 2015\Projects\WinInventarioHogar\WinInventarioHogar\obj\Debug\RdlCompile.compiled
+C:\Users\antho\Desktop\hogar\WinInventarioHogar\WinInventarioHogar\bin\Debug\WinInventarioHogar.exe.config
+C:\Users\antho\Desktop\hogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.exe
+C:\Users\antho\Desktop\hogar\WinInventarioHogar\WinInventarioHogar\obj\Debug\WinInventarioHogar.pdb
